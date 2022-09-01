@@ -1,0 +1,29 @@
+body {
+    background-image: url(../css/kitchen.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    
+}
+
+h1 {
+    color: #ffe6e6;
+    margin-left: 50px;
+    margin-top: 40px;
+}
+
+
+a {
+    color: beige;
+}
+
+p {
+    color: #ffffe6;
+}
+
+h2,
+h3,
+ul,
+ol {
+    color: antiquewhite;
+}

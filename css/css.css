@@ -1,0 +1,25 @@
+body {
+    background-image: url(./kitchen.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    font-family: Century Gothic, CenturyGothic, AppleGothic, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: #ffe6e6;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+ul {
+   
+}
+
+a {
+    color: beige;
+}
+
+a:hover {
+    color: #ff9999;
+}
